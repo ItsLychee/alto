@@ -9,8 +9,9 @@ target/
 # MSVC Windows builds of rustc generate these, which store debugging information
 *.pdb
 
-# Nix out links
+# Nix 
 result
+.direnv
 
 # Added by cargo
 
