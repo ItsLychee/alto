@@ -1,7 +1,7 @@
 # alto, a language-oriented audio organizer
 
-alto is a language that is oriented at 
-
+alto is a program that organizes your music based on how you use the language to define
+a filepath!
 
 
 ### faq
